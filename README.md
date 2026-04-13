@@ -72,6 +72,12 @@ App mockups are available in the repository.
 
 ---
 
+## 📂 Project Materials
+
+- 📊 [Final Presentation](presentation/ISCTE-Impact-Token_Presentation.pdf)
+- 📱 [App Mockups](app-mockups/app_layouts.pdf)
+- 📝 [Presentation Script](concept/Guiao_apresentacao.pdf)
+
 ## ✅ Notes
 This repository documents a **conceptual and academic innovation project**.  
 No production code was developed as part of this initiative.
